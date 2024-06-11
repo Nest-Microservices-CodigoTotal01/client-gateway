@@ -1,0 +1,10 @@
+
+
+# Para el proceso de constrccion 
+dist/
+
+node_modules/
+
+.env
+
+.vscode/
